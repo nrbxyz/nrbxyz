@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me:
 
 <!--
 **nrbxyz/nrbxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am currently a 9th grader studying in Bangalore, I enjoy programming and I am trying to get better
+Nothing here yet but I have some plans...
