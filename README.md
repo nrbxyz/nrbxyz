@@ -1,5 +1,5 @@
-### About me:
-<!--
+<!--### About me:
+
 **nrbxyz/nrbxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <bold>hello, i am a programmer that is currently learning javascript and python, hoping to get into c# soon. im not that great at it, trying to get better!</bold>
+-->
