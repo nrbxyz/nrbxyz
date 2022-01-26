@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 
 <bold>hello, i am a programmer that is currently learning javascript and python, hoping to get into c# soon. im not that great at it, trying to get better!</bold>
 -->
+nothing here yet.
+
+Discord: nrbxyz#7275
